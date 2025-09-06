@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "505110-4091")(type "KiCad")(uri "${KIPRJMOD}/Molex_505110-4091/505110-4091.kicad_sym")(options "")(descr ""))
+)
