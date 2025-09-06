@@ -613,6 +613,14 @@
     [
       "e5d1ef39-4f73-49b9-a28e-90cbab64c430",
       "Root"
+    ],
+    [
+      "1fe48399-6044-4738-8f68-e3c7e81c1599",
+      "RaspberryPi Zero"
+    ],
+    [
+      "22c58947-12e9-450b-815a-7ca29c4276ca",
+      "PSU Display"
     ]
   ],
   "text_variables": {}
