@@ -621,6 +621,10 @@
     [
       "22c58947-12e9-450b-815a-7ca29c4276ca",
       "PSU Display"
+    ],
+    [
+      "ba318d4e-935f-41a5-985f-4a423f9aa506",
+      "Display connector"
     ]
   ],
   "text_variables": {}

@@ -1316,6 +1316,10 @@
 		(at 85.09 93.98)
 		(uuid "69f29606-af0c-404b-9e91-7df00df6a62a")
 	)
+	(no_connect
+		(at 110.49 43.18)
+		(uuid "f90d640a-6c31-477c-82b1-3cee1d78b08a")
+	)
 	(wire
 		(pts
 			(xy 125.73 53.34) (xy 129.54 53.34)
@@ -1585,16 +1589,6 @@
 			(type default)
 		)
 		(uuid "d8a03236-550c-4dd1-914d-837ba019f062")
-	)
-	(wire
-		(pts
-			(xy 110.49 36.83) (xy 110.49 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e13db3c2-2f6d-4355-9977-f66f24cf54ac")
 	)
 	(wire
 		(pts
@@ -2151,72 +2145,6 @@
 			(project "pollin-lcd"
 				(path "/e5d1ef39-4f73-49b9-a28e-90cbab64c430/1fe48399-6044-4738-8f68-e3c7e81c1599"
 					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 110.49 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af77d81c-48a4-43cf-98fc-4e0f2d5f8e49")
-		(property "Reference" "#PWR03"
-			(at 110.49 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 110.49 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 110.49 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 110.49 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e2e9c8a5-835e-46a0-a436-239222f62539")
-		)
-		(instances
-			(project "pollin-lcd"
-				(path "/e5d1ef39-4f73-49b9-a28e-90cbab64c430/1fe48399-6044-4738-8f68-e3c7e81c1599"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
