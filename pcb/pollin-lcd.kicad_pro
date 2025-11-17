@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.0,
-          "height": 2.0,
-          "width": 2.0
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -623,8 +623,8 @@
       "PSU Display"
     ],
     [
-      "5232fc7d-6759-4efd-bdcf-e04e6e208c57",
-      "Display Connector"
+      "ba318d4e-935f-41a5-985f-4a423f9aa506",
+      "Display connector"
     ]
   ],
   "text_variables": {}
